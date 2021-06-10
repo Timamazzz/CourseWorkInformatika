@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Artem-HOME\source\repos\CourseWork_Without OOP\Source.cpp(147,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  CourseWork_Without OOP.vcxproj -> C:\Users\Artem-HOME\source\repos\CourseWork_Without OOP\Debug\CourseWork_Without OOP.exe

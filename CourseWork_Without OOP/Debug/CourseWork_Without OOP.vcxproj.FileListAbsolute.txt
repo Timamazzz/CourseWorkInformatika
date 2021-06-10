@@ -1,0 +1,2 @@
+C:\Users\Artem-HOME\source\repos\CourseWork_Without OOP\Debug\CourseWork_Without OOP.exe
+C:\Users\Artem-HOME\source\repos\CourseWork_Without OOP\Debug\CourseWork_Without OOP.pdb
